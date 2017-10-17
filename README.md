@@ -12,7 +12,7 @@ networks are inherently directed. Also, one has to distinguish between weak and 
 From a computational point of view, oftentimes strong connectivity is the right generalization from
 undirected to directed graphs.
 
-A digraph G = (V,E) is strongly connected if it contains a path from u to v for all nodes u, v 2 V .
+A digraph G = (V,E) is strongly connected if it contains a path from u to v for all nodes u, v.
 A sub-digraph of G is a strongly connected component of G if it is strongly connected and maximal
 with this property. Any digraph has a unique decomposition into strongly connected components, which
 partitions the set of nodes.
