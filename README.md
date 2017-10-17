@@ -21,3 +21,5 @@ Objectif
 ---------------------
 Implement the sequential algorithm which is invented by Tarjan to find the strongly connected components 
 and then use MPI to implement the parallel algorithm.
+
+Please refer to 'project-scc.pdf' and 'rapport final.pdf' for more details.
